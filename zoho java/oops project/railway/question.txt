@@ -1,0 +1,14 @@
+railway reservation question:
+    write an application for railway ticket rservation system
+    the application should have four functionalities
+    1.book
+    2.cancel
+    3.print booked tickets
+    4.print available ticket
+        
+        .There are total of 63 berths for 63 confirmed ticket
+        .18 RAC tickets 
+        .10 ticket in waiting list
+        .if the waiting-list ticket count goes above 10,print a "no ticket available"
+        .the following passenger details should be obtained from the user name,age,berth perference
+        .reservation againest cancelation(RAC)
