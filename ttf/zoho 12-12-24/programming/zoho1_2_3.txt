@@ -1,0 +1,242 @@
+
+Madurai - My First attempt on Madurai
+Round 1:
+    Aptitute 10 questions
+    c output 10 questions
+Round 2:
+    1.Pattern Printing  
+    Print a triangle pattern of stars.  
+    Input:  
+        4 
+    Output:  
+        *
+        ***
+        *****
+        *******
+
+    2. Decimal to Hexadecimal Conversion  
+    Convert a given decimal number to hexadecimal.  
+    Input: `15`  
+    Output: `F`  
+
+    Input: `255`  
+    Output: `FF`  
+
+    3. Longest Palindromic Substring in O(n)  
+    Find the longest palindromic substring in a given string.  
+    Input: `babad`  
+    Output: `bab` (or `aba`)  
+
+    Input: `cbbd`  
+    Output: `bb`  
+
+    4. A number is called as binary-decimal if all the digits in the number should be either ‘1’ or ‘0’. Any number can be written as a sum of binary-decimals. Our task is to find the minimum number of binary-decimals to represent a number.
+        Input : 32
+        Output : 10 11 11
+        Input : 120
+        Output : 10 110
+
+
+    5.Shortest path for king from source to destination
+
+Round 3: i was rejected
+
+-------------------------------------------------------------------------------------------------------------
+
+
+Madurai - My second attempt on Madurai
+Round 1:
+    Aptitute 10 questions
+    c output 10 questions
+
+Round 2:
+1. Pattern Printing  
+   Print the number pattern as shown below.  
+   Input:  
+   4
+   Output:  
+   1
+   1 2
+   1 2 3
+   1 2 3 4
+     2 3 4
+       3 4
+         4
+
+2. Find Leaders in an Array  
+   Find all leaders in the array (numbers greater than all elements to their right).  
+   Input: [16, 17, 4, 3, 5, 2]  
+   Output: [17, 5, 2]
+
+   Input: [1, 2, 3, 4, 0]  
+   Output: [4, 0] 
+
+3. Find the Longest String in a Paragraph 
+   Find the longest string (word) in a paragraph.  
+   Input: This is a simple paragraph.  
+   Output: paragraph  
+
+   Input: Hello world!  
+   Output: Hello  
+
+4. Find Target Element  
+   Find the target element in the array.  
+   Input: Array: `[4, 5, 6, 7, 0, 1, 2]`, Target: `0`  
+   Output: `Index: 4`  
+
+   Input: Array: `[4, 5, 6, 7, 0, 1, 2]`, Target: `3`  
+   Output: `Not Found`  
+
+5. **Second Largest Element in an Array**  
+   Find the second largest element in the array.  
+   Input:** `[12, 35, 1, 10, 34, 1]`  
+   Output:** `34`  
+
+   Input: `[1, 2, 3, 4, 5]`  
+   Output: `4`  
+
+Round 3:
+develop booking application
+i was rejected
+
+
+-------------------------------------------------------------------------------------------------------------
+Tirunelveli - My 3 attempt on Madurai
+
+Direct Round 2 No round 1
+
+1. Trailing Zeroes in Factorial  
+   Given n >= 0, return the count of trailing zeroes in n!.
+
+   Sample Input 1: 10  
+   Sample Output 1: 2  
+   Explanation: 10! = 3628800, 2 trailing zeroes.
+
+   Sample Input 2: 20  
+   Sample Output 2: 4  
+   Explanation:** 20! = 2432902008176640000, 4 trailing zeroes.
+
+   Sample Input 3: 100  
+   Sample Output 3: 24
+
+
+2. Find Missing k-th Positive Integer  
+   Given an array of integers, find the k-th missing positive integer.
+
+   Sample Input 1: arr: [-1, 2, 3, 4], k: 2  
+   Sample Output 1: 2
+
+   Sample Input 2: arr: [1, 2, 3, 4, -1], k: 1  
+   Sample Output 2: 5
+
+
+
+3. Insert n Elements in an Array with Adjacent Empty Condition  
+   Given an array where '1' means not empty and '0' means empty, check if you can insert n elements such that adjacent elements are empty.
+
+   Sample Input 1: arr: [1, 0, 0, 0, 1], n: 1  
+   Sample Output 1: True
+
+   Sample Input 2: arr: [1, 0, 0, 0, 1], n: 2  
+   Sample Output 2: False`
+
+
+4. Remove Duplicates in k-length Substring
+   Given an array, remove duplicates to form k-length substrings.
+
+   Sample Input 1: arr: [1, 1, 1, 1], k: 2  
+   Sample Output 1: 1 1 1
+
+   Sample Input 2: arr: [2, 32, 32, 23, 32]`, `k: 4
+   Sample Output 2: 3 2 2
+
+
+5. Count Inversions in an Array
+   For a given array of distinct integers, count the number of inversions (where arr[i] > arr[j] and i < j).
+
+   Sample Input 1: array: [3, 2, 1]  
+   Sample Output 1: 3
+
+   Sample Input 2: array: [2, 5, 1, 3, 4]  
+   Sample Output 2: 4
+
+
+6.Max Water Container  
+   Given an array where each element represents the height of a line, find two lines that form a container holding the most water.
+
+   Sample Input 1: height = [6, 8, 5, 4, 8, 3, 7]
+   Sample Output 1: 42
+
+   Sample Input 2: height = [1, 2, 1]
+   Sample Output 2: 2
+
+7.Sort Array by Factor Count
+   Given an array, sort it based on the number of factors each element has.
+
+8.can't remember
+
+Round 3
+    1. Find Combinations for Balanced Parentheses**  
+    Find all valid combinations of balanced parentheses for a given number
+        Input:
+        n = 3  
+        Output:
+        4  
+        Explanation: 
+        Valid combinations:  
+        ()()()  
+        (())()  
+        ()(())  
+        ((()))
+
+
+2. Rotate Array by a Given Position
+Rotate an array to the right by a given number of positions.  
+    Input:  
+    Array: [1, 2, 3, 4, 5]  
+    Positions: 2  
+    Output:
+    [4, 5, 1, 2, 3]
+    Input:  
+    Array: [10, 20, 30, 40]  
+    Positions: 1   
+    Output:
+    [40, 10, 20, 30]
+
+
+3. Find Islands in a Matrix 
+Count the number of islands (groups of connected `1`s) in a matrix where `0` represents desert and `1` represents water.  
+    Input:
+    Matrix:  
+    1 1 0  
+    0 1 0  
+    1 0 1  
+    Output:  
+    1
+
+4. Find Shortest Path in a Triangular Matrix
+Find the shortest path in a triangular matrix, starting from the top and moving to adjacent elements j, j-1, j+1. 
+
+    Input:
+    Matrix:  
+    1  
+    2 2  
+    3 5 3  
+    2 4 4 6  
+    Output:
+    Path: 1 -> 2 -> 3 -> 2  
+    Shortest Path Sum: 8
+
+    Input:
+    Matrix:  
+    1  
+    1 2  
+    10 10 3  
+    2 4 4 6  
+    Output:  
+    Path: 1 -> 1 -> 3 -> 4  
+    Shortest Path Sum: 9
+
+i solve every things no HR round in Tirunelveli but also i was rejected.
+-------------------------------------------------------------------------------------------------------------
+
